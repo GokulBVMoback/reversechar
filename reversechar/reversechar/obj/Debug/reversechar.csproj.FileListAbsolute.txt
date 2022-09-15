@@ -1,0 +1,8 @@
+C:\Users\moback idc\source\repos\reversechar\reversechar\bin\Debug\reversechar.exe.config
+C:\Users\moback idc\source\repos\reversechar\reversechar\bin\Debug\reversechar.exe
+C:\Users\moback idc\source\repos\reversechar\reversechar\bin\Debug\reversechar.pdb
+C:\Users\moback idc\source\repos\reversechar\reversechar\obj\Debug\reversechar.csproj.AssemblyReference.cache
+C:\Users\moback idc\source\repos\reversechar\reversechar\obj\Debug\reversechar.csproj.SuggestedBindingRedirects.cache
+C:\Users\moback idc\source\repos\reversechar\reversechar\obj\Debug\reversechar.csproj.CoreCompileInputs.cache
+C:\Users\moback idc\source\repos\reversechar\reversechar\obj\Debug\reversechar.exe
+C:\Users\moback idc\source\repos\reversechar\reversechar\obj\Debug\reversechar.pdb
